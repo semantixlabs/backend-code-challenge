@@ -19,7 +19,7 @@ A empresa XPTO precisa de uma aplicação capaz de gerenciar o processo de compr
 
 Para facilitar a implementação e manutenções futuras, a equipe técnica da empresa XPTO listou algumas especificações que devem ser atendidas para a implementação da aplicação e outras que seriam atrativas.
 
-* Deve ser desenvolvida em algumas das linguagens: NodeJs, Elixir, Python, Golang.
+* Deve ser desenvolvida em algumas das linguagens: NodeJS, Elixir, Python, Golang.
 * Deve ser documentado as instruções de como construir, rodar e quais são funcionalidades contempladas e como funcionam.
 * Pode ser utilizado qualquer framework que facilite o desenvolvimento.
 * Pode conter migrations para o gerenciamento das tabelas no banco de dados.
@@ -27,7 +27,7 @@ Para facilitar a implementação e manutenções futuras, a equipe técnica da e
 * Podem ser inseridos mensagens de logs para a rastreabilidade de erros
 * Pode ser implementado a captura de exceções para evitar comportamentos inesperados.
 
-Para facilitar o desenvolvimento desse desafio, recomendamos o uso do [ElephantSQL](https://www.elephantsql.com/). Ele provisiona uma instância de Postgresql gratuitamente.
+Para facilitar o desenvolvimento desse desafio, recomendamos o uso do [ElephantSQL](https://www.elephantsql.com/). Ele provisiona uma instância de Postgresql gratuitamente. E se quiser, pode usar o ambiente de desenvolvimento da [StackBlitz](https://stackblitz.com) (somente para NodeJS).
 
 ## Submissão
 
