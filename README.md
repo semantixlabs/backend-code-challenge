@@ -31,7 +31,7 @@ Para facilitar o desenvolvimento desse desafio, recomendamos o uso do [ElephantS
 
 ## Submissão
 
-Envie um email para andre.ravazzi[at]semantix.com.br com o link para um repositório público do Github com a solução do desafio. No título do email coloque "{Seu nome} - Code Challenge Front-end"
+Envie um email para andre.ravazzi[at]semantix.com.br com o link para um repositório público do Github com a solução do desafio. No título do email coloque "{Seu nome} - Code Challenge Back-end"
 
 ## Contribuição
 
